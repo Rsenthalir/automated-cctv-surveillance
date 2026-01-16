@@ -1,6 +1,6 @@
 # Automated Object Classification for Smart CCTV Surveillance
 
-This project implements an enhanced Convolutional Neural Network (CNN) for 
+This project implements an enhanced Convolutional Neural Network(CNN) for 
 automated object classification in smart CCTV surveillance systems.
 
 ## Objective
