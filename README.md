@@ -34,4 +34,4 @@ Frames are recorded only if prediction confidence exceeds a predefined threshold
 ## How to Run
 ```bash
 pip install tensorflow numpy matplotlib scikit-learn
-python enhanced_cnn_classifier.py
+Open the notebook and run all cells in Jupyter Notebook
